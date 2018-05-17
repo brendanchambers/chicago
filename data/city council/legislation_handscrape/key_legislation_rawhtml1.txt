@@ -1,0 +1,495 @@
+debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl06_hypFile" href="LegislationDetail.aspx?ID=3483778&amp;GUID=8E37E83E-FD21-4544-BBD7-C6AF981411CA&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3823</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>4/18/2018</td><td>&nbsp;</td><td>Mayor</td><td>Appropriation of proceeds from sale of properties at 1685 N Throop St and portion of S Wentworth Ave to fund design, construction and associated costs for Department of Fleet an Facility Management facilities and Public Safety Training, Academy, development of 3-1-1 System, and associated real estate brokerage fees</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl08_hypFile" href="LegislationDetail.aspx?ID=3481819&amp;GUID=A04D5A3E-A4A8-41E0-98EC-0DC8ABAB3BD5&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3799</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>4/18/2018</td><td>&nbsp;</td><td>Mayor</td><td>Revision to redevelopment agreement with and associated Class 6(b) tax status for The Keebler Company for property at 750 E 110th St, 10839 S Langley Ave and 10840-10841 S Langley Ave</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl10_hypFile" href="LegislationDetail.aspx?ID=3481810&amp;GUID=C835C033-7620-4457-B801-066E8D1754B8&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3798</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>4/18/2018</td><td>&nbsp;</td><td>Misc.</td><td>Zoning Reclassification Map No. 9-G at 3469-3475 N Clark St - App No. 19648 </td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl12_hypFile" href="LegislationDetail.aspx?ID=3481749&amp;GUID=2ACF4570-C732-4321-AA06-DB3C6B625035&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3797</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>4/18/2018</td><td>&nbsp;</td><td>Misc.</td><td>Zoning Reclassification Map No. 4-I at  1256-1368 S Talman Ave, 1257-1411 S Washtenaw Ave, 1348-1412 S Fairfield Ave, 1355-1365 S Talman Ave, 2604-2726 W Ogden Ave and 2703-2724 W 14th St - App No. 19647</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl14_hypFile" href="LegislationDetail.aspx?ID=3481732&amp;GUID=733FA093-7A3A-427A-BA58-8BF962A8D508&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3796</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>4/18/2018</td><td>&nbsp;</td><td>Misc.</td><td>Zoning Reclassification Map No. 7-G at 821 W Oakdale Ave - App No. 19646</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl16_hypFile" href="LegislationDetail.aspx?ID=3481722&amp;GUID=29B0A67A-AE70-49FC-B47E-66E912C28A1C&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3795</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>4/18/2018</td><td>&nbsp;</td><td>Misc.</td><td>Zoning Reclassification Map No. 9-L at 5200-5206 W Belmont Ave - App No. 19645</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl18_hypFile" href="LegislationDetail.aspx?ID=3481721&amp;GUID=30FA5FBA-ABF5-41D1-8A6C-74AE23F67E5D&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3794</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>4/18/2018</td><td>&nbsp;</td><td>Mayor</td><td>Support of Class L tax incentive for property at 1113-1115 W Fulton Market</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl20_hypFile" href="LegislationDetail.aspx?ID=3481717&amp;GUID=7368B4C5-3A74-4086-936A-E9473EBCAC57&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3793</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>4/18/2018</td><td>&nbsp;</td><td>Misc.</td><td>Zoning Reclassification Map No. 16-H at  1811-1813 W 63rd St - App No. 19644T1</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl22_hypFile" href="LegislationDetail.aspx?ID=3481703&amp;GUID=3122C4CA-7E3C-469D-B68E-339AC5B67588&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3792</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>4/18/2018</td><td>&nbsp;</td><td>Mayor</td><td>Redevelopment agreement with Chicago Neighborhood Initiatives, Inc. and issuance of city note for Gotham Greens Greenhouse project near S 107th St and S Doty Ave</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl24_hypFile" href="LegislationDetail.aspx?ID=3481702&amp;GUID=17245F31-A43D-46AD-BDC5-E9F56FFB032D&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3791</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>4/18/2018</td><td>&nbsp;</td><td>Misc.</td><td>Zoning Reclassification Map No. 3-J at 1448 N Avers Ave - App No. 19643</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl26_hypFile" href="LegislationDetail.aspx?ID=3481684&amp;GUID=22A1847B-2A68-45CD-9A01-36A499E80D91&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3790</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>4/18/2018</td><td>&nbsp;</td><td>Misc.</td><td>Zoning Reclassification Map No. 9-H at 1637 W Addison St - App No. 19642T1</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl28_hypFile" href="LegislationDetail.aspx?ID=3481681&amp;GUID=9AB583B5-5EFA-4471-9C57-A5FAD2BA8644&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3788</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>4/18/2018</td><td>&nbsp;</td><td>Misc.</td><td>Zoning Reclassification Map No. 9-G at 3404-3412 N Sheffield Ave - App No. 19641T1</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl30_hypFile" href="LegislationDetail.aspx?ID=3481648&amp;GUID=BA6F7990-D046-4F65-A02C-39FAAE828F23&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3787</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>4/18/2018</td><td>&nbsp;</td><td>Misc.</td><td>Zoning Reclassification Map No. 5-F at 744-758 W North Ave - App No. 19640</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl32_hypFile" href="LegislationDetail.aspx?ID=3481636&amp;GUID=B6E3B508-887D-4635-8EDA-B5F8C064E98B&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3786</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>4/18/2018</td><td>&nbsp;</td><td>Mayor</td><td>Fifty-fourth amending agreement with SomerCor 504, Inc. regarding administration of Small Business Improvement Fund (SBIF) program within Elston/Armstrong Industrial Corridor, Humboldt Park Commercial, Kinzie Industrial Conservation, Portage Park redevelopment project areas, amending Second SomerCor Agreement</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl34_hypFile" href="LegislationDetail.aspx?ID=3481563&amp;GUID=10A0304B-4AD1-49CB-B2BD-58FA5A2C717E&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3779</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>4/18/2018</td><td>&nbsp;</td><td>Misc.</td><td>Zoning Reclassification Map No. 11-I at 3024 W Irving Park Rd - App No. 19639T1</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl36_hypFile" href="LegislationDetail.aspx?ID=3481505&amp;GUID=93CB795B-4490-4B01-8DBD-961BD5E1B18E&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3731</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>4/18/2018</td><td>&nbsp;</td><td>Mayor</td><td>Transfer of property and project ownership from Madison Renaissance Development Limited Partnership and assumption of debt and loan restructuring for 5628-5636 W Madison St, 5629-5635 W Madison St and 5645-5647 W Madison St</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl38_hypFile" href="LegislationDetail.aspx?ID=3481446&amp;GUID=27CD2952-7417-45DD-82F5-02FFA9E03DA7&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3689</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>4/18/2018</td><td>4/18/2018</td><td>14</td><td>Amendment of Municipal Code Section 8-4-148 regarding restrictions on sale of body armor</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl40_hypFile" href="LegislationDetail.aspx?ID=3481352&amp;GUID=18C866A8-0B45-4B48-8F4E-3576EA3C5B71&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3629</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>4/18/2018</td><td>&nbsp;</td><td>Misc.</td><td>Zoning Reclassification Map No. 11-J at 3215 W Lawrence Ave and 4743 N Sawyer Ave - App No. 19638T1</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl42_hypFile" href="LegislationDetail.aspx?ID=3481328&amp;GUID=243BAF05-6C39-4C17-9F69-A3C796F0B904&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">SO2018-3609</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>4/18/2018</td><td>4/18/2018</td><td>15</td><td>Amendment of Municipal Code Sections 7-12-040 and 7-12-065 regarding stray animal impoundment and redemption</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl44_hypFile" href="LegislationDetail.aspx?ID=3481281&amp;GUID=C8A8B04B-DB6B-4A07-A753-CE4BCC868E3B&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3577</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>4/18/2018</td><td>&nbsp;</td><td>Misc.</td><td>Zoning Reclassification Map No. 13-H at 1952 W Lawrence Ave - App No. 19637T1</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl46_hypFile" href="LegislationDetail.aspx?ID=3481220&amp;GUID=2D1CDB9A-06A4-4C6E-B89F-AED823FFA34E&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3529</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>4/18/2018</td><td>&nbsp;</td><td>Misc.</td><td>Zoning Reclassification Map No. 11-H at 4531 N Wolcott Ave - App No. 19636</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl48_hypFile" href="LegislationDetail.aspx?ID=3481132&amp;GUID=36FF6A2E-DAC8-4227-AA07-D77332A34B01&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3467</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>4/18/2018</td><td>&nbsp;</td><td>Mayor</td><td>Amendment of Municipal Code Chapters 4-5, 4-6 and 4-244 to establish new Mobile Merchants License</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl50_hypFile" href="LegislationDetail.aspx?ID=3481095&amp;GUID=47591062-1871-48CF-A0F4-F04774311287&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3436</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>4/18/2018</td><td>&nbsp;</td><td>Mayor</td><td>Amendment of Municipal Code Chapters 2-16  and 7-12 regarding animal foster care and associated matters</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl52_hypFile" href="LegislationDetail.aspx?ID=3481034&amp;GUID=8BD844E5-864D-488D-8B09-C364DCB3E89F&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3411</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>4/18/2018</td><td>&nbsp;</td><td>Misc.</td><td>Zoning Reclassification Map No. 5-H at 1737-1741 N Western Ave - App No. 19635T1</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl54_hypFile" href="LegislationDetail.aspx?ID=3481032&amp;GUID=D9EC88D8-5214-4850-A848-F4909214A497&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3409</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>4/18/2018</td><td>&nbsp;</td><td>Mayor</td><td>Bond inducement language concerning reimbursement of expenditure  of City funds for various projects from proceeds of obligations issued by City</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl56_hypFile" href="LegislationDetail.aspx?ID=3481022&amp;GUID=D3A42BD4-EB09-49A3-9EB9-D212A7F9D47E&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3399</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>4/18/2018</td><td>&nbsp;</td><td>Misc.</td><td>Zoning Reclassification Map No. 3-I at 2539-2541 W Walton St - App No. 19634</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl58_hypFile" href="LegislationDetail.aspx?ID=3480824&amp;GUID=25A56E63-E8F9-40BC-867F-B51B58AB66B2&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3354</a>
+                                    </td><td>Ordinance</td><td>Recommended for Passage</td><td>4/18/2018</td><td>&nbsp;</td><td>Mayor</td><td>Sale of property at 6529-6533 S Stewart Ave and 6530 S Harvard Ave on behalf of Chicago Board of Education</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl60_hypFile" href="LegislationDetail.aspx?ID=3480813&amp;GUID=7B0DC033-0B5F-473F-A4E1-C823555C908E&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3352</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>4/18/2018</td><td>&nbsp;</td><td>Misc.</td><td>Zoning Reclassification Map No. 2-M at 5827 W Madison St - App No. 19633</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl62_hypFile" href="LegislationDetail.aspx?ID=3480731&amp;GUID=86EC4309-A6F9-4141-B322-96CE903B7105&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3338</a>
+                                    </td><td>Ordinance</td><td>Recommended for Passage</td><td>4/18/2018</td><td>&nbsp;</td><td>Mayor</td><td>License agreement with Reborn Community Church for use of City-owned parking lot at 3928-3936 W Wilcox St</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl64_hypFile" href="LegislationDetail.aspx?ID=3480668&amp;GUID=4A672169-1D25-4297-B230-8CF4F23A0F04&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3321</a>
+                                    </td><td>Ordinance</td><td>Recommended for Passage</td><td>4/18/2018</td><td>&nbsp;</td><td>Mayor</td><td>Acquisition of property at 3508-3516 S Halsted St and 3506 S Halsted St for benefit of revised 35th/Halsted Redevelopment Plan and Project</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl66_hypFile" href="LegislationDetail.aspx?ID=3480617&amp;GUID=014BE2E9-1C9C-474B-8183-882C7DCC1260&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3303</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>4/18/2018</td><td>&nbsp;</td><td>Mayor</td><td>Annual Appropriation Ordinance Year 2018 amendment within Fund No. 925 for Dept. of Business Affairs and Consumer Protection </td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl68_hypFile" href="LegislationDetail.aspx?ID=3480600&amp;GUID=352DF72D-11EC-4A17-9438-736476A69B13&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3296</a>
+                                    </td><td>Ordinance</td><td>Recommended for Passage</td><td>4/18/2018</td><td>&nbsp;</td><td>Mayor</td><td>Sale of City-owned property at 4424 S Shields Ave to Samantha Chuskas under Adjacent Neighbors Land Acquisition Program (ANLAP)</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl70_hypFile" href="LegislationDetail.aspx?ID=3480589&amp;GUID=6569A930-96FA-49D4-9EAB-06B5BE79A1C1&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3286</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>4/18/2018</td><td>&nbsp;</td><td>47</td><td>Amendment of Municipal Code Chapter 2-25 by adding new Section 2-25-035 to establish Office of Labor Standards</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl72_hypFile" href="LegislationDetail.aspx?ID=3480551&amp;GUID=D9012CD3-D625-4BF4-B511-6FD9B7634481&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3261</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>4/18/2018</td><td>&nbsp;</td><td>14</td><td>Amendment of Municipal Code Section 2-92-320 prohibiting persons or businesses from participating in transactions with City of Chicago if involved in pre-dispute arbitration process or agreement in sexual harassment claim</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl74_hypFile" href="LegislationDetail.aspx?ID=3480529&amp;GUID=2DD3AE90-9875-474C-8DF0-CE2DB0530804&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3252</a>
+                                    </td><td>Ordinance</td><td>Recommended for Passage</td><td>4/18/2018</td><td>&nbsp;</td><td>Mayor</td><td>Negotiated sale of City-owned property at 4021 S Normal Ave to MICO Express LLC</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl76_hypFile" href="LegislationDetail.aspx?ID=3480477&amp;GUID=9C73FA52-1CC0-402E-BA8E-8525D1B9D0A2&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3243</a>
+                                    </td><td>Ordinance</td><td>Recommended for Passage</td><td>4/18/2018</td><td>&nbsp;</td><td>Mayor</td><td>Sale of City-owned property at 1311 S Heath Ave to Rebeca Romo and Richard D. Manongdo</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl78_hypFile" href="LegislationDetail.aspx?ID=3480452&amp;GUID=241F981B-94D6-43E8-AC73-D122DBECD413&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3240</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>4/18/2018</td><td>&nbsp;</td><td>14</td><td>Amendment of Municipal Code Title 4 by adding new Chapter 4-402 entitled "Chicago Personal Data Collection and Protection Ordinance"</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl80_hypFile" href="LegislationDetail.aspx?ID=3480448&amp;GUID=23F9C049-5619-4851-BC63-8D808CD69E58&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3239</a>
+                                    </td><td>Ordinance</td><td>Recommended for Passage</td><td>4/18/2018</td><td>&nbsp;</td><td>42</td><td>Amendment of Municipal Code Section 13-72-080 to require redaction of unit owner email addresses and telephone numbers from condominium association records and documents prior to unauthorized examination</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl82_hypFile" href="LegislationDetail.aspx?ID=3480447&amp;GUID=FAE25838-F1C1-4FD3-98AC-B3B9C02DAE4A&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3238</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>4/18/2018</td><td>&nbsp;</td><td>Misc.</td><td>Zoning Reclassification Map No.  4-F at 122-128 W Cullerton St, 123-127 W 19th St and 1900-1934 S Clark St - App No. 19632</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl84_hypFile" href="LegislationDetail.aspx?ID=3480426&amp;GUID=9F6CC655-E0E7-4FC1-AF2E-915C4A04B15C&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3237</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>4/18/2018</td><td>&nbsp;</td><td>Misc.</td><td>Zoning Reclassification Map No. 12-K at 5114-5116 S Pulaski Rd - App No. 19631</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl86_hypFile" href="LegislationDetail.aspx?ID=3480395&amp;GUID=AFBD903B-483F-44DE-86CA-C575D81F0D5E&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3235</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>4/18/2018</td><td>&nbsp;</td><td>Misc.</td><td>Zoning Reclassification Map No. 11-H at 4024 N Lincoln Ave - 19630T1</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl88_hypFile" href="LegislationDetail.aspx?ID=3480366&amp;GUID=897FF4DD-F6FD-4493-940A-AD6FB14DE0F8&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">SO2018-3228</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>4/18/2018</td><td>&nbsp;</td><td>42</td><td>Amendment of Municipal Code Sections 9-64-110 and 9-100-020 to prohibit parking or standing of vehicles alongside properly parked vehicles within Central Business District except for various streets within 25th Ward</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl90_hypFile" href="LegislationDetail.aspx?ID=3480365&amp;GUID=F027E582-D27E-4B07-B9B6-F733B6CA7EAB&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3227</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>4/18/2018</td><td>&nbsp;</td><td>Misc.</td><td>Zoning Reclassification Map No. 3-H at 1604-1608 W Chicago Ave - App No. 19629</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl92_hypFile" href="LegislationDetail.aspx?ID=3480364&amp;GUID=F526A75D-3D5F-4A13-9DBC-B7699B4D4BCF&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3226</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>4/18/2018</td><td>&nbsp;</td><td>14</td><td>Amendment of Municipal Code Chapter 8-16 by adding new Section 8-16-015 concerning safety of unattended children confined in motor vehicles</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl94_hypFile" href="LegislationDetail.aspx?ID=3480350&amp;GUID=15A5FFE1-F60D-4CFC-A71B-197706C1C000&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3220</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>4/18/2018</td><td>&nbsp;</td><td>19</td><td>Amendment of Municipal Code Section 8-32-130 to disallow loading and unloading of containers, garbage cans, dumpsters and similar objects during overnight hours within residential districts or noise sensitive zones</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl96_hypFile" href="LegislationDetail.aspx?ID=3480341&amp;GUID=AADC9841-A53B-4D62-AD9B-B6A875F6840F&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3218</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>4/18/2018</td><td>&nbsp;</td><td>Misc.</td><td>Zoning Reclassification Map No. 8-G at 3132 S Lituanica Ave - App No. 19628T1</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl98_hypFile" href="LegislationDetail.aspx?ID=3480299&amp;GUID=7398E7F8-D883-4A48-B216-2FB2250FF4B3&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3204</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>4/18/2018</td><td>&nbsp;</td><td>36</td><td>Amendment of Municipal Code Chapter 2-92 by adding new Section 2-92-955 entitled "Veteran-Owned Small Local Businesses Participation Goal Pilot Program"</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl100_hypFile" href="LegislationDetail.aspx?ID=3480252&amp;GUID=9E64D3F2-B331-4691-9F8E-EF0BB04DE666&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3201</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>4/18/2018</td><td>&nbsp;</td><td>44</td><td>Amendment of Municipal Code Section 4-60-023 (44.1) to disallow additional package goods licenses on portion(s) of N Clark St</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl102_hypFile" href="LegislationDetail.aspx?ID=3480251&amp;GUID=49882736-0FBE-4B4C-B87D-D75B40EDFC3C&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3200</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>4/18/2018</td><td>&nbsp;</td><td>39</td><td>Amendment of Municipal Code Section 4-60-023 (39.13) to disallow additional package goods licenses on portion(s) of W Peterson Ave</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl104_hypFile" href="LegislationDetail.aspx?ID=3480233&amp;GUID=7FE7EC15-1DBF-49F7-BD9E-D41A4ADA66AD&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3198</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>4/18/2018</td><td>&nbsp;</td><td>30</td><td>Amendment of Municipal Code Section 4-60-023 (30.26) to allow additional package goods licenses on portion(s) of W Diversey Ave and N Marmora Ave</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl106_hypFile" href="LegislationDetail.aspx?ID=3480225&amp;GUID=36475A35-D8D6-4315-A02A-4B95FEE0CC6F&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3197</a>
+                                    </td><td>Ordinance</td><td>Recommended for Passage</td><td>4/18/2018</td><td>&nbsp;</td><td>Mayor</td><td>Intergovernmental agreement with Chicago Park District for conveyance of City-owned property at 10440-10444 S Corliss Ave for use as public park</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl108_hypFile" href="LegislationDetail.aspx?ID=3480224&amp;GUID=D7DDC33C-B518-42F2-BDF9-859AFEE29728&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3196</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>4/18/2018</td><td>&nbsp;</td><td>Misc.</td><td>Zoning Reclassification Map No. 9-G at 957 W Grace St - App No. 19627T1</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl110_hypFile" href="LegislationDetail.aspx?ID=3480223&amp;GUID=93E9032D-65FE-430F-820A-F9B9AD1535FA&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3195</a>
+                                    </td><td>Ordinance</td><td>Recommended for Passage</td><td>4/18/2018</td><td>&nbsp;</td><td>Mayor</td><td>Intergovermental agreement with Chicago Park District for transfer of property and reimbursement of tax increment financing (TIF) funded improvements for Edgewater Park project</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl112_hypFile" href="LegislationDetail.aspx?ID=3480185&amp;GUID=095496D3-1E8F-4F8C-AA5F-3522C5003299&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3190</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>4/18/2018</td><td>&nbsp;</td><td>Misc.</td><td>Zoning Reclassification Map No. 13-I at 5301-5309 N Kedzie Ave - App No. 19626T1</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl114_hypFile" href="LegislationDetail.aspx?ID=3480143&amp;GUID=96B32DEC-20F8-4E44-8810-77F64C44D340&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3189</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>4/18/2018</td><td>&nbsp;</td><td>Misc.</td><td>Zoning Reclassification Map No. 1-G at 1156-1160 W Ohio St - App No. 19625T1</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl116_hypFile" href="LegislationDetail.aspx?ID=3480127&amp;GUID=A591D6CC-5476-4506-9324-B97924092A8E&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3188</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>4/18/2018</td><td>&nbsp;</td><td>Misc.</td><td>Zoning Reclassification Map No. 20-E at 7918-7920 S Rhodes Ave - App No. 19624</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl118_hypFile" href="LegislationDetail.aspx?ID=3479625&amp;GUID=B8F81B57-A50C-47BB-94CE-F3320D839369&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3187</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>4/18/2018</td><td>&nbsp;</td><td>Misc.</td><td>Zoning Reclassification Map No. 5-I at 3047-3051 W Armitage Ave  - App No. 19623T1</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl120_hypFile" href="LegislationDetail.aspx?ID=3479622&amp;GUID=2FD3DDCF-67E4-40BF-92AD-385E8F0753AA&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3186</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>4/18/2018</td><td>&nbsp;</td><td>Misc.</td><td>Zoning Reclassification Map No. 30-F at 12345 S Halsted St - App No. 19622T1</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl122_hypFile" href="LegislationDetail.aspx?ID=3479572&amp;GUID=77F8EBA4-A055-450A-90D5-4B71C3B0D31E&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3185</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>4/18/2018</td><td>&nbsp;</td><td>Misc.</td><td>Zoning Reclassification Map No. 10-G at 4522-4528 S McDowell Ave - App No. 19621T1</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl124_hypFile" href="LegislationDetail.aspx?ID=3479564&amp;GUID=AB4FD5E9-9007-4925-A18A-6E2D7CAF33A2&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3184</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>4/18/2018</td><td>&nbsp;</td><td>Misc.</td><td>Zoning Reclassification Map No. 7-I at  3016  n Troy St - App No. 19620</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl126_hypFile" href="LegislationDetail.aspx?ID=3479496&amp;GUID=89FA0EDF-1C9F-4756-BD56-4BDF6A5D98F5&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3183</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>4/18/2018</td><td>&nbsp;</td><td>Misc.</td><td>Zoning Reclassification Map No. 11-H at 4119 N Western Ave - App No. 19619</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl128_hypFile" href="LegislationDetail.aspx?ID=3479399&amp;GUID=59042316-62C2-4A5A-B7DE-B9E927381B8B&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3182</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>4/18/2018</td><td>&nbsp;</td><td>Misc.</td><td>Historical landmark designation for West Pullman Elementary School at 11917-11951 S Parnell Ave</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl130_hypFile" href="LegislationDetail.aspx?ID=3479398&amp;GUID=447DB7C7-74E9-4A35-B3D6-5E6313703FBE&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3181</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>4/18/2018</td><td>&nbsp;</td><td>Misc.</td><td>Zoning Reclassification Map No.6-G at 2955 S Archer Ave - App No. 19618</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl132_hypFile" href="LegislationDetail.aspx?ID=3479379&amp;GUID=4BB40E88-7166-4E33-82BD-30D1EC40FE1B&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3180</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>4/18/2018</td><td>&nbsp;</td><td>Misc.</td><td>Zoning Reclassification Map No. 3-H at 830 N Ashland Ave - App No. 19617</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl134_hypFile" href="LegislationDetail.aspx?ID=3479138&amp;GUID=5751FF10-7C22-4B08-8571-EB8834BAD0E5&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3178</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>4/18/2018</td><td>&nbsp;</td><td>Misc.</td><td>Zoning Reclassification Map No. 13-L at 5150 N Northwest Hwy - App No. 19616</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl136_hypFile" href="LegislationDetail.aspx?ID=3479053&amp;GUID=6E266E16-9264-420D-B7DD-913B4650E3B3&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3177</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>4/18/2018</td><td>&nbsp;</td><td>Misc.</td><td>Zoning Reclassification Map No.  6-G at 3040-3052 S Gratten Ave - App No. 19615T1</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl138_hypFile" href="LegislationDetail.aspx?ID=3479008&amp;GUID=2DF80687-0961-4E70-BAC1-4CBF30975BA0&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3176</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>4/18/2018</td><td>&nbsp;</td><td>Misc.</td><td>Zoning Reclassification Map No. 6-G at 2996 S Archer Ave - App No. 19614T1                                                       </td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl140_hypFile" href="LegislationDetail.aspx?ID=3464886&amp;GUID=D975E61C-886B-4051-93FE-BD4B63937614&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-2295</a>
+                                    </td><td>Ordinance</td><td>Direct Introduction</td><td>3/28/2018</td><td>&nbsp;</td><td>14</td><td>Amendment of Municipal Code Chapter 2-92 by adding new Section 2-92-327 creating gun sale policies</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl142_hypFile" href="LegislationDetail.aspx?ID=3464785&amp;GUID=E510F309-C0B0-4F0E-974A-7FCA2BBDB53E&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3072</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>3/28/2018</td><td>&nbsp;</td><td>Mayor</td><td>Amendment of Municipal Code Chapter 2-92 by adding new Section 2-92-327 regarding gun sale policies</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl144_hypFile" href="LegislationDetail.aspx?ID=3464104&amp;GUID=AAB8584A-98CD-4139-889F-7F19C99AD9A2&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">SO2018-3040</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>3/28/2018</td><td>4/18/2018</td><td>Mayor</td><td>Agreement with Chicago Airlines Terminal Consortium (CATCo) for work related to City-owned aeronautical operations, equipment and systems, and facilities lease at Chicago O'Hare International Airport</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl146_hypFile" href="LegislationDetail.aspx?ID=3464096&amp;GUID=42B93E1D-8201-4B73-B6E1-18CEB5366D07&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-3039</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>3/28/2018</td><td>4/18/2018</td><td>Mayor</td><td>Fuel system lease agreement with ORD Fuel Co. LLC at Chicago O'Hare International Airport</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl148_hypFile" href="LegislationDetail.aspx?ID=3463754&amp;GUID=B36A1C90-7C7A-40CD-99B5-AD2AF7F5F28B&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-2946</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>3/28/2018</td><td>&nbsp;</td><td>Misc.</td><td>Zoning Reclassification Map No. 5-G at 1428-1472 W Willow St/1731-1747 N Elston Ave - App No. 19613T1</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl150_hypFile" href="LegislationDetail.aspx?ID=3463503&amp;GUID=9EF7CC8B-5A3C-441A-B644-39E2E9EFEA24&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-2784</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>3/28/2018</td><td>&nbsp;</td><td>Misc.</td><td>Zoning Reclassification Map No. 8-H at 2000 W 34th St - 19612T1</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl152_hypFile" href="LegislationDetail.aspx?ID=3463461&amp;GUID=26211BE3-AA2D-45B2-B3E6-10FC63F2C874&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-2765</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>3/27/2018</td><td>3/28/2018</td><td>03</td><td>Establishment of work group to maximize diversity in project participation associated with new lease and license agreements with various air carriers at Chicago O’Hare International Airport</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl154_hypFile" href="LegislationDetail.aspx?ID=3463368&amp;GUID=53A7E30A-8012-40E7-8C40-80A7E6B99657&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-2738</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>3/28/2018</td><td>&nbsp;</td><td>Misc.</td><td>Zoning Reclassification Map No. 8-H at 1900 W Pershing Pl - App No. 19611</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl156_hypFile" href="LegislationDetail.aspx?ID=3463311&amp;GUID=9FD5B2EF-9A91-49EE-9CE4-59E185F037CD&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-2703</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>3/28/2018</td><td>&nbsp;</td><td>Misc.</td><td>Zoning Reclassification Map No. 3-I at 839 N California Ave - App No. 19610</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl158_hypFile" href="LegislationDetail.aspx?ID=3463173&amp;GUID=6F29728B-2FF4-45F5-A591-6765E52511BF&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-2612</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>3/28/2018</td><td>&nbsp;</td><td>Misc.</td><td>Zoning Reclassification Map No. 1-J at 3456 W Lake St - App No. 19609T1</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl160_hypFile" href="LegislationDetail.aspx?ID=3463131&amp;GUID=25BBC094-528A-4169-92CE-07C18F0E2478&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-2584</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>3/28/2018</td><td>&nbsp;</td><td>Misc.</td><td>Zoning Reclassification Map No. 11-G at 4757 N Ashland Ave - App No. 19608</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl162_hypFile" href="LegislationDetail.aspx?ID=3463126&amp;GUID=D0195CC4-1A66-4474-AD91-02EA685426CE&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-2579</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>3/28/2018</td><td>4/18/2018</td><td>Mayor</td><td>Collective Bargaining Agreement with Illinois Council of Police </td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl164_hypFile" href="LegislationDetail.aspx?ID=3463062&amp;GUID=F0B321AE-1CEB-48C4-A571-12D12455E7A4&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-2526</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>3/28/2018</td><td>4/18/2018</td><td>Mayor</td><td>Intergovernmental shared data agreement with Illinois Department of Employment Security  and AECOM Technical Services, Inc.</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl166_hypFile" href="LegislationDetail.aspx?ID=3463052&amp;GUID=AA90DDEC-144A-42BC-8C68-8C48B1FED635&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-2516</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>3/28/2018</td><td>&nbsp;</td><td>Misc.</td><td>Zoning Reclassification Map No. 12-K at 4801-4859 S Cicero Ave - App No. 19607</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl168_hypFile" href="LegislationDetail.aspx?ID=3462919&amp;GUID=78AA85C2-6E39-4B8E-932C-EE966000993F&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-2451</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>3/28/2018</td><td>&nbsp;</td><td>Misc.</td><td>Zoning Reclassification Map No. 3-G at 1537-1541 W Pearson St - App No. 19606</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl170_hypFile" href="LegislationDetail.aspx?ID=3462915&amp;GUID=4EDF998A-778D-48FF-91CD-D391D6B99617&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-2449</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>3/28/2018</td><td>4/18/2018</td><td>Mayor</td><td>Sublease agreement with Catholic Charities of the Archdiocese of Chicago for use of building space at 11255 S Michigan Ave</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl172_hypFile" href="LegislationDetail.aspx?ID=3462803&amp;GUID=3A75A4D1-69F3-43FD-8EAE-C04F5FA6CFFA&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-2446</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>3/28/2018</td><td>4/18/2018</td><td>Mayor</td><td>Lease agreement with Jerald I. Much as beneficiary under Chicago Title Land Trust Co. Trust No. 20657 for use of vacant land at 9110 S Green Bay Ave</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl174_hypFile" href="LegislationDetail.aspx?ID=3462802&amp;GUID=E63BF818-3552-4B38-ADE0-0C38722F4CF2&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-2445</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>3/28/2018</td><td>&nbsp;</td><td>Misc.</td><td>Zoning Reclassification Map No. 11-5 at  3701 W Montrose Ave - App No. 19605T1</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl176_hypFile" href="LegislationDetail.aspx?ID=3462796&amp;GUID=213F62B4-F21B-4B9D-9C49-28BB5616089C&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-2444</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>3/28/2018</td><td>4/18/2018</td><td>Mayor</td><td>Lease agreement with 8700 Building LLC for use as office space and parking lot at 8650 S Commercial Ave </td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl178_hypFile" href="LegislationDetail.aspx?ID=3462763&amp;GUID=FFEED1E1-25C3-4704-A5C2-E5167E313137&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-2443</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>3/28/2018</td><td>4/18/2018</td><td>Mayor</td><td>Lease agreement with Chicago Audubon Society or use of City-owned office space at 5901 N Pulaski Rd</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl180_hypFile" href="LegislationDetail.aspx?ID=3462743&amp;GUID=022ED3C6-22A0-4CB8-93EE-AFBD608A022B&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-2441</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>3/28/2018</td><td>&nbsp;</td><td>30</td><td>Amendment of Municipal Code Title 2 by adding new Chapter 2-76 entitled "Chicago Civilian Oversight Commission" and modifying Chapters 2-56 and 2-78 concerning Public Safety Deputy</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl182_hypFile" href="LegislationDetail.aspx?ID=3462740&amp;GUID=F76D5FAC-76C0-4DBC-AD84-4E8B225B384D&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-2438</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>3/28/2018</td><td>4/18/2018</td><td>Mayor</td><td>Lease agreement with 4615 Homer LLC for  use of office and garage space at 4615 - 4619 W Homer St</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl184_hypFile" href="LegislationDetail.aspx?ID=3462737&amp;GUID=973808C1-577B-40A3-A432-AECC0A647FA5&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-2436</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>3/28/2018</td><td>&nbsp;</td><td>30</td><td>Amendment of Municipal Code Title 2 by adding new Chapter 2-76 entitled "Chicago Community Police Commission" and modifying Chapters 2-56 and 2-78 concerning Public Safety Deputy</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl186_hypFile" href="LegislationDetail.aspx?ID=3462719&amp;GUID=F75BC2B9-466E-47B7-8D08-ACF2EAAC6A94&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-2428</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>3/28/2018</td><td>4/18/2018</td><td>Mayor</td><td>Sublease agreement with Catholic Charities of the Archdiocese of Chicago for property at 2400 S Kedzie Ave</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl188_hypFile" href="LegislationDetail.aspx?ID=3462699&amp;GUID=D160DD28-8E2C-472B-AD8E-68D892159D61&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-2414</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>3/28/2018</td><td>4/18/2018</td><td>Mayor</td><td>Lease agreement with Prime Plus Pharmacy LLC for use of City-owned space as pharmacy at 845 W Wilson Ave</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl190_hypFile" href="LegislationDetail.aspx?ID=3462668&amp;GUID=A49A8D2F-7D36-4001-ACDC-82249016B3F5&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">SO2018-2401</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>3/28/2018</td><td>4/18/2018</td><td>39</td><td>Amendment of Municipal Code Section 2-160-010 declaring City's policy against sexual harassment </td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl192_hypFile" href="LegislationDetail.aspx?ID=3462667&amp;GUID=48A62F75-A1F8-4796-BA6B-F835FB6DFA58&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-2400</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>3/28/2018</td><td>4/18/2018</td><td>Mayor</td><td>Lease agreement with Catholic Charities of the Archdiocese of Chicago for use of City-owned office space at 10 S Kedzie Ave</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl194_hypFile" href="LegislationDetail.aspx?ID=3462614&amp;GUID=E2FFAAE4-413E-4486-A59A-B07D98675A3B&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-2394</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>3/28/2018</td><td>&nbsp;</td><td>Misc.</td><td>Zoning Reclassification Map No. 9-K at 3200-3204 N Kildare Ave, 3210-3211 N Kildare Ave, 3200-3210 N Keeler Ave, 3215-3225 N Keeler Ave, 4151-4157 W Melrose St and 4200-4308 W Belmont Ave - App No. 19604</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl196_hypFile" href="LegislationDetail.aspx?ID=3462613&amp;GUID=8E0BD909-A0A5-42E0-A5AE-24A981F5E409&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-2393</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>3/28/2018</td><td>&nbsp;</td><td>14</td><td>Amendment of Municipal Code Chapter 2-92 by adding new Section 2-92-613 prohibiting City contractors from entering into nondisclosure agreements involving sexual harassment</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl198_hypFile" href="LegislationDetail.aspx?ID=3462611&amp;GUID=2AA1A1F6-0838-46CB-BE57-957178944194&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-2392</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>3/28/2018</td><td>&nbsp;</td><td>28</td><td>Amendment of Municipal Code Chapter 8-4 by adding new Section 8-4-014 concerning loitering </td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl200_hypFile" href="LegislationDetail.aspx?ID=3462609&amp;GUID=8610F1D7-4E6C-4BFE-B818-DC63635FD8E4&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-2391</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>3/28/2018</td><td>4/18/2018</td><td>27</td><td>Amendment of Municipal Code Section 4-60-023 (27.76) to allow additional package goods licenses on portion(s) of N Milwaukee Ave</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl202_hypFile" href="LegislationDetail.aspx?ID=3462545&amp;GUID=EDBE3F7B-138B-44EF-BCB3-73DDC8205A45&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2018-2390</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>3/28/2018</td><td>&nbsp;</td><td>39</td><td>Amendment of Municipal Code Chapter 2-160 by adding new Section 2-160-045 entitled "Sexual Harassment Sign Posting and Training Requirements" for businesses of 50 or less employees</td>

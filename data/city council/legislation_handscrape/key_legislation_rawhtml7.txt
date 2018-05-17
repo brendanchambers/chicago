@@ -1,0 +1,498 @@
+<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl04_hypFile" href="LegislationDetail.aspx?ID=3183823&amp;GUID=46D18BFD-1453-4802-AD35-77306B1C08FB&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-7033</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>10/11/2017</td><td>11/8/2017</td><td>Mayor</td><td>Scope of services, budget and management agreement for Special Service Area No. 10 (Year 2018)</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl06_hypFile" href="LegislationDetail.aspx?ID=3183802&amp;GUID=58499496-3551-450A-86A0-34FE3318E38A&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-7032</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>10/11/2017</td><td>11/8/2017</td><td>Mayor</td><td>Scope of services, budget and management agreement for Special Service Area No. 3 (Year 2018)</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl08_hypFile" href="LegislationDetail.aspx?ID=3183767&amp;GUID=C2488C0D-0960-430E-BD6B-7354997297E4&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-7031</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>10/11/2017</td><td>11/8/2017</td><td>Mayor</td><td>Scope of services, budget and management agreement for Special Service Area No. 2 (Year 2018)</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl10_hypFile" href="LegislationDetail.aspx?ID=3183520&amp;GUID=9E0FEEAA-1059-4C2F-9BD9-7A01E5F6690D&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-7011</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>10/11/2017</td><td>11/8/2017</td><td>&nbsp;</td><td>Historical landmark designation for Rosenwald Ct Apartments at 4600-4658 S Michigan Ave, 4601-4659 S Wabash Ave, 45-77 E 46th St and 46-78 E 47th St </td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl12_hypFile" href="LegislationDetail.aspx?ID=3183504&amp;GUID=B4662F9C-D366-4C8C-9E2F-AFECCEAC2187&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-7010</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>10/11/2017</td><td>11/8/2017</td><td>&nbsp;</td><td>Historical landmark designation for Quincy Elevated Station at 220 S Wells St </td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl14_hypFile" href="LegislationDetail.aspx?ID=3164225&amp;GUID=08DB33AA-6677-40F2-B55E-B348BE3EBAFA&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6984</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>10/11/2017</td><td>11/8/2017</td><td>30</td><td>Amendment of Municipal Code Section 4-60-023 (30.27) to allow additional package goods licenses on portion(s) of W Wrightwood Ave and N Mason Ave </td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl16_hypFile" href="LegislationDetail.aspx?ID=3159132&amp;GUID=C968A965-A3BC-4613-ACD4-2B3A305D3179&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6939</a>
+                                    </td><td>Ordinance</td><td>Direct Introduction</td><td>10/3/2017</td><td>&nbsp;</td><td>03</td><td>Amendment of Municipal  Code Section 9-68-025 concerning residential permit parking permits for Soldier Field/Wintrust Arena area </td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl18_hypFile" href="LegislationDetail.aspx?ID=3153288&amp;GUID=FF7A263D-917D-4A61-83C0-B8C5617836FD&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6854</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>10/4/2017</td><td>&nbsp;</td><td>09</td><td>Amendment of Municipal Code 9-115-150, 9-114-265 - Transportation network driver fingerprint/photo requirements and fare rates higher than regular rates</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl20_hypFile" href="LegislationDetail.aspx?ID=3150219&amp;GUID=A46EE7E7-B323-4598-BB4D-C8E170BD7831&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">R2017-726</a>
+                                    </td><td>Resolution</td><td>Introduced</td><td>9/6/2017</td><td>&nbsp;</td><td>Clerk</td><td>Affirmation of commitment to right of women to make own reproductive health choices and call upon Governor Bruce Rauner to sign House Bill 40</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl22_hypFile" href="LegislationDetail.aspx?ID=3147766&amp;GUID=DDE847D1-EE94-4A1E-A7FD-8E9AC7C7A53D&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">SO2017-6822</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>9/6/2017</td><td>9/6/2017</td><td>&nbsp;</td><td>Amendment of Municipal Code Section 2-32-031 regarding debt management responsibilities</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl24_hypFile" href="LegislationDetail.aspx?ID=3147765&amp;GUID=65CC7128-2137-4366-8833-B5133A09F8DF&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6821</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>9/6/2017</td><td>9/6/2017</td><td>&nbsp;</td><td>Amendment to fifty-first amending agreement with SomerCor 504, Inc. to increase grant funds for administration of Small Businesses Improvement Fund Program within various redevelopment project areas</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl26_hypFile" href="LegislationDetail.aspx?ID=3147764&amp;GUID=D23080DA-E810-4263-BFCB-1A59304D7429&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6820</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>9/6/2017</td><td>9/6/2017</td><td>&nbsp;</td><td>Service provider agreement with South Chicago Parents and Friends, Inc. for Special Service Area No. 5 </td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl28_hypFile" href="LegislationDetail.aspx?ID=3147753&amp;GUID=319BBB4E-DD98-4B3C-83B6-55BF6C950490&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">SO2017-6819</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>9/6/2017</td><td>10/11/2017</td><td>Mayor</td><td>Establishment of special purpose entity for issuance of Sales Tax Securitization Bonds and amendment of Municipal Code Sections 2-32-130, 2-56-050 and 2-165-020 regarding bond and debt transactions</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl30_hypFile" href="LegislationDetail.aspx?ID=3147745&amp;GUID=5CE123A0-705C-45E4-980D-DCC3A5402216&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6817</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>9/6/2017</td><td>10/11/2017</td><td>Mayor</td><td>Support of Class C tax status for property at 1515 N Halsted St</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl32_hypFile" href="LegislationDetail.aspx?ID=3147613&amp;GUID=B2CDE8A7-A502-49DA-89FD-6E151BD2C150&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6805</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>9/6/2017</td><td>10/11/2017</td><td>Mayor</td><td>Designation of Stockyards Southeast Quadrant Industrial Redevelopment Project Area </td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl34_hypFile" href="LegislationDetail.aspx?ID=3147601&amp;GUID=DB62AF41-1A9E-4C73-9A10-56477E9F526C&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6804</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>9/6/2017</td><td>10/11/2017</td><td>Mayor</td><td>Adoption of Tax Increment Allocation Financing (TIF) funds for Stockyards Southeast Quadrant Industrial Redevelopment Project Area</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl36_hypFile" href="LegislationDetail.aspx?ID=3147600&amp;GUID=F7D9F8FC-D211-4FC8-ABF8-2970FA9612B6&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6803</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>9/6/2017</td><td>10/11/2017</td><td>Mayor</td><td>Approval of Amendment No. 6 to Redevelopment Plan for Stockyards Southeast Quadrant Industrial Redevelopment Project Area </td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl38_hypFile" href="LegislationDetail.aspx?ID=3147481&amp;GUID=5F0D8EBB-B38E-47F7-8D83-A7C8F1E88FE1&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">SO2017-6801</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>9/6/2017</td><td>10/11/2017</td><td>Mayor</td><td>Redevelopment agreement with Hatchery Chicago LLC, Kinzie Industrial Development Corp. and Accion Chicago</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl40_hypFile" href="LegislationDetail.aspx?ID=3147034&amp;GUID=9CDE346C-F518-457E-B88D-7E831D79A679&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6779</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>9/6/2017</td><td>10/11/2017</td><td>Mayor</td><td>Fifty-second amending agreement with SomerCor 504, Inc. regarding administration of Small Business Improvement Fund (SBIF) program within Ravenswood Corridor Redevelopment Project Area</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl42_hypFile" href="LegislationDetail.aspx?ID=3147004&amp;GUID=E6725FC2-FDA6-46D1-A5D9-3710380ECDF7&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6756</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>9/6/2017</td><td>10/11/2017</td><td>Mayor</td><td>Amendment of loan agreement with Illinois Environmental Protection Agency regarding sewer improvements</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl44_hypFile" href="LegislationDetail.aspx?ID=3146927&amp;GUID=99E17984-57A2-4A89-8323-3966704D91C4&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">SO2017-6680</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>9/6/2017</td><td>10/11/2017</td><td>Mayor</td><td>Acquisition of Kennedy-King College site for construction of 2FM vehicle maintenance facility and sale of property at 6800 S Wentworth Ave to 6705 S Wentworth LLC</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl46_hypFile" href="LegislationDetail.aspx?ID=3146626&amp;GUID=EE85C690-2046-4F1E-87B4-8C003F74845B&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">SO2017-6522</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>9/6/2017</td><td>10/11/2017</td><td>Mayor</td><td>Sale of City-owned property at various locations under Large Lot Program</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl48_hypFile" href="LegislationDetail.aspx?ID=3146603&amp;GUID=B3D7FD96-C607-495D-8D41-1280E10D905A&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6499</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>9/6/2017</td><td>10/11/2017</td><td>Mayor</td><td>Sale of City-owned property at 6418 S Langley Ave to Phillip Jones under Adjacent Neighbors Land Acquisition Program</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl50_hypFile" href="LegislationDetail.aspx?ID=3146589&amp;GUID=DD0D1550-D6C9-4DFB-A0AB-3667EA516380&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6485</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>9/6/2017</td><td>&nbsp;</td><td>33</td><td>Amendment of Municipal Code Chapter 5-12 by modifying various sections of Residential Landlord and Tenants Ordinance concerning landlord access to dwelling unit, building security, and tenant immigration status</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl52_hypFile" href="LegislationDetail.aspx?ID=3146553&amp;GUID=A1961B61-AF18-4677-AE3A-EFDF1ED7FCD7&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6450</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>9/6/2017</td><td>10/11/2017</td><td>Mayor</td><td>Sale of City-owned property at 2700-2704 W Lexington St to Robert Muzikowski</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl54_hypFile" href="LegislationDetail.aspx?ID=3146525&amp;GUID=2DE9B1AB-8C19-4E64-A7C9-5C86BF59A755&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6422</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>9/6/2017</td><td>&nbsp;</td><td>14</td><td>Amendment of Municipal Code Section 10-8-334 to restrict possession of certain items at public assemblies</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl56_hypFile" href="LegislationDetail.aspx?ID=3146523&amp;GUID=D301B868-5F24-4B44-8016-FDC51D5EBC0F&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">SO2017-6420</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>9/6/2017</td><td>4/18/2018</td><td>14</td><td>Amendment of Municipal Code Sections 4-6-130 and 7-28-215 concerning regulation and licensing of disposal and recycling management companies</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl58_hypFile" href="LegislationDetail.aspx?ID=3146519&amp;GUID=4C7E9D9A-0679-4E35-9102-BF29DD060750&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6416</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>9/6/2017</td><td>10/11/2017</td><td>Mayor</td><td>Sale of City-owned property at 2619 W Luther St to Felicitas Gutierrez under Adjacent Neighbors Land Acquisition Program</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl60_hypFile" href="LegislationDetail.aspx?ID=3146509&amp;GUID=C82338FA-1119-4EE6-BA35-5E0FBAE3BACB&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">R2017-735</a>
+                                    </td><td>Resolution</td><td>Adopted</td><td>9/6/2017</td><td>10/11/2017</td><td>Mayor</td><td>President Donald Trump and U.S. Congress urged to retain Deferred Action for Childhood Arrivals (DACA) program</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl62_hypFile" href="LegislationDetail.aspx?ID=3146496&amp;GUID=78B24A2D-42CD-4B30-A410-164F2092C8E1&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6399</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>9/6/2017</td><td>10/11/2017</td><td>Mayor</td><td>Sale of City-owned property at 1126 S Mozart St to Safer Corporate Endowment</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl64_hypFile" href="LegislationDetail.aspx?ID=3146479&amp;GUID=5689901A-B4CE-4B62-AF87-4D46502C7F55&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6382</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>9/6/2017</td><td>10/11/2017</td><td>Mayor</td><td>Lease agreement with Exodus Drum and Bugle Corps., The for use of property at 816 N Laramie Ave for community center</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl66_hypFile" href="LegislationDetail.aspx?ID=3146455&amp;GUID=FA427107-54F8-4EDD-9BE1-C948B1C1CED9&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6358</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>9/6/2017</td><td>10/11/2017</td><td>Mayor</td><td>Sale of Chicago Board of Education property at 2306 W Maypole Ave to IFF for Westside Women's Wellness &amp; Prosperity Center</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl68_hypFile" href="LegislationDetail.aspx?ID=3146451&amp;GUID=7D6C1CF1-A669-4D42-B140-3941C15BB7D7&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6355</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>9/6/2017</td><td>&nbsp;</td><td>22</td><td>Amendment of Municipal Code Sections 2-156-010 and 2-156-470 concerning governmental ethics requirements of legislative services provided by city contractors and modifying definitions of "City Council employee" and "city contractor" </td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl70_hypFile" href="LegislationDetail.aspx?ID=3146422&amp;GUID=582D854A-A05E-4F7B-A7FD-A794E4BA16F5&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6330</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>9/6/2017</td><td>10/11/2017</td><td>Mayor</td><td>Acquisition of additional parcels within 71st and Stony Island Tax Increment Financing (TIF) Project Area regarding Jeffery Plaza</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl72_hypFile" href="LegislationDetail.aspx?ID=3146123&amp;GUID=6588F5FC-0CC3-47CD-8A9E-4CEE824DF7DA&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6307</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>9/6/2017</td><td>&nbsp;</td><td>06</td><td>Amendment of Municipal Code Title 2 by deleting Section 2-92-420(o) concerning definition of "established business"</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl74_hypFile" href="LegislationDetail.aspx?ID=3146122&amp;GUID=BDDBCD22-EFB7-4AD6-B472-24CF3ECE1BAE&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6306</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>9/6/2017</td><td>&nbsp;</td><td>06</td><td>Amendment of Municipal Code Section 2-92-670 by removing definitions of "economically disadvantaged" and "personal net worth" from MBE/WBE Construction Program</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl76_hypFile" href="LegislationDetail.aspx?ID=3146118&amp;GUID=7AC6CD21-7403-4C21-939C-F5BE930D34FA&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6303</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>9/6/2017</td><td>10/11/2017</td><td>Mayor</td><td>Lease and license agreements with U.S. General Services Administration on behalf of Transportation Security Administration for use of certain space at airports for office functions</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl78_hypFile" href="LegislationDetail.aspx?ID=3145977&amp;GUID=63D7DC85-2BBE-44D8-9C3A-A480930F398F&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6294</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>9/6/2017</td><td>10/11/2017</td><td>42</td><td>Amendment of Municipal Code Section 4-60-022 (42.46 through 42.193) to disallow additional alcoholic liquor licenses on portion(s) of various public ways within 42nd Ward</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl80_hypFile" href="LegislationDetail.aspx?ID=3145968&amp;GUID=64488F06-7AB1-4249-829E-9EE0FB7E31B3&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6286</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>9/6/2017</td><td>10/11/2017</td><td>Mayor</td><td>Public Hearing(s) on establishment of and authorization of tax levy for Special Service Area No. 73</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl82_hypFile" href="LegislationDetail.aspx?ID=3145964&amp;GUID=FF808F12-1AA4-4DD3-9F20-A2D0CA242088&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6284</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>9/6/2017</td><td>10/11/2017</td><td>Mayor</td><td>Scope of services, budget and management agreement for Special Service Area No. 64 (Year 2018)</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl84_hypFile" href="LegislationDetail.aspx?ID=3145952&amp;GUID=1E4A5979-28FC-45FD-BAFA-EAFA203ED036&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6279</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>9/6/2017</td><td>10/11/2017</td><td>Mayor</td><td>Scope of services, budget and management agreement for Special Service Area No. 55 (Year 2018)</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl86_hypFile" href="LegislationDetail.aspx?ID=3145899&amp;GUID=B4D7939A-2D28-4338-82B5-E5AF2A73AB23&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6276</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>9/6/2017</td><td>10/11/2017</td><td>Mayor</td><td>Scope of services, budget and management agreement for Special Service Area No. 54 (Year 2018)</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl88_hypFile" href="LegislationDetail.aspx?ID=3145896&amp;GUID=DCB5E04E-50BE-4487-B4E7-2305F8598AAA&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6273</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>9/6/2017</td><td>10/11/2017</td><td>03</td><td>Amendment of Municipal Code Section 4-244-140 regarding Central District boundary description wherein peddling is prohibited</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl90_hypFile" href="LegislationDetail.aspx?ID=3145890&amp;GUID=1AC68D66-4D32-4E0A-9546-C382683A8A5A&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6270</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>9/6/2017</td><td>10/11/2017</td><td>Mayor</td><td>Scope of services, budget and management agreement for Special Service Area No. 51 (Year 2018)</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl92_hypFile" href="LegislationDetail.aspx?ID=3145888&amp;GUID=293DCD15-9D91-4715-AD72-95E79D5770C2&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6269</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>9/6/2017</td><td>&nbsp;</td><td>42</td><td>Amendment of Municipal Code Chapter 18-11 by adding new Section 18-11-1106.2.1 entitled "Accessible Parking Space in Multi-Unit Residential Occupancy" </td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl94_hypFile" href="LegislationDetail.aspx?ID=3145876&amp;GUID=5B09E59E-AF34-4328-A31D-EC3CD118A876&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6266</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>9/6/2017</td><td>10/11/2017</td><td>Mayor</td><td>Public Hearing(s) on area expansion and extension of levy period for Special Service Area No. 47</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl96_hypFile" href="LegislationDetail.aspx?ID=3145875&amp;GUID=ED5270A2-C9D9-4D7C-9F1E-89E2A50C626D&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6265</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>9/6/2017</td><td>10/11/2017</td><td>42</td><td>Amendment of Municipal Code Section 4-60-023 (42.9) to disallow additional package goods licenses on portion(s) of W Jackson Blvd and S Desplaines St</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl98_hypFile" href="LegislationDetail.aspx?ID=3145874&amp;GUID=5BC74171-25AC-489A-B2C2-A2E8E812D470&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6264</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>9/6/2017</td><td>10/11/2017</td><td>15</td><td>Amendment of Municipal Code Sections 4-60-022 and 4-60-023 to correct subsection numbering inaccuracies concerning alcoholic liquor and package goods license restrictions</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl100_hypFile" href="LegislationDetail.aspx?ID=3145865&amp;GUID=CDBAE0A3-E75D-4F97-BCF6-0618EA030733&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6261</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>9/6/2017</td><td>10/11/2017</td><td>13</td><td>Designation of 13th Precinct of 13th Ward as Restricted Residential Zone prohibiting additional shared housing units and vacation rentals</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl102_hypFile" href="LegislationDetail.aspx?ID=3145864&amp;GUID=355F4554-9ED2-445F-9E2A-FAA7DF5DD222&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6260</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>9/6/2017</td><td>10/11/2017</td><td>Mayor</td><td>Scope of services, budget and management agreement for Special Service Area No. 43 (Year 2018)</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl104_hypFile" href="LegislationDetail.aspx?ID=3145863&amp;GUID=3C2945E6-9EC0-41BD-9323-B20BE4DCF90D&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6259</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>9/6/2017</td><td>10/11/2017</td><td>13</td><td>Designation of 43rd Precinct of 13th Ward as Restricted Residential Zone prohibiting additional shared housing units and vacation rentals</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl106_hypFile" href="LegislationDetail.aspx?ID=3145862&amp;GUID=2DDD19FB-0BA2-4777-B24F-3E026DA3CE25&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6258</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>9/6/2017</td><td>10/11/2017</td><td>23</td><td>Designation of 4th Precinct of 23rd Ward as Restricted Residential Zone prohibiting additional shared housing units and vacation rentals</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl108_hypFile" href="LegislationDetail.aspx?ID=3145861&amp;GUID=80AA7C1D-1468-4DAE-9C61-6DDF5E2DD3DF&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6257</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>9/6/2017</td><td>10/11/2017</td><td>23</td><td>Designation of 28th Precinct of 23rd Ward as Restricted Residential Zone prohibiting additional shared housing units and vacation rentals</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl110_hypFile" href="LegislationDetail.aspx?ID=3145859&amp;GUID=3463FB0C-4E65-49FF-8346-BC918A1B2D2E&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6255</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>9/6/2017</td><td>10/11/2017</td><td>23</td><td>Designation of 29th Precinct of 23rd Ward as Restricted Residential Zone prohibitiing additional shared housing units and vacation rentals</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl112_hypFile" href="LegislationDetail.aspx?ID=3145845&amp;GUID=0B105370-3882-4DE0-B263-773B591E4032&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6246</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>9/6/2017</td><td>10/11/2017</td><td>Mayor</td><td>2018 scope of services, budget and management agreement and amendment of 2017 budget, levy and service provider agreement for Special Service Area No. 34 (Year 2018)</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl114_hypFile" href="LegislationDetail.aspx?ID=3145842&amp;GUID=B67BD5F3-8245-46A4-A113-CBF8D3B22338&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6243</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>9/6/2017</td><td>10/11/2017</td><td>Mayor</td><td>Public Hearing(s) on area expansion and extension of levy period for Special Service Area No. 31</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl116_hypFile" href="LegislationDetail.aspx?ID=3145839&amp;GUID=884075A9-FB65-4E9B-9988-E021599613A0&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6240</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>9/6/2017</td><td>10/11/2017</td><td>Mayor</td><td>Public Hearing(s) on extension of levy period and increase in tax levy for Special Service Area No. 25</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl118_hypFile" href="LegislationDetail.aspx?ID=3145835&amp;GUID=267A556B-420A-4ADE-81E5-22ADCE58563F&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6237</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>9/6/2017</td><td>10/11/2017</td><td>Mayor</td><td>Scope of services, budget and management agreement for Special Service Area No. 24 (Year 2018)</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl120_hypFile" href="LegislationDetail.aspx?ID=3145794&amp;GUID=2F81AC25-EDD6-4416-B0C0-04939F47041B&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6233</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>9/6/2017</td><td>10/11/2017</td><td>Mayor</td><td>Scope of services, budget and management agreement for Special Service Area No. 21-2016 (Year 2018)</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl122_hypFile" href="LegislationDetail.aspx?ID=3145790&amp;GUID=9E463601-0216-4FB5-9C6A-6F59F8F4D6FF&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6232</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>9/6/2017</td><td>10/11/2017</td><td>Mayor</td><td>Scope of services, budget and management agreement for Special Service Area No. 20 (Year 2018)</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl124_hypFile" href="LegislationDetail.aspx?ID=3145789&amp;GUID=0BD50EF8-42D7-452E-8AA0-DFB2255587AF&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6231</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>9/6/2017</td><td>10/11/2017</td><td>Mayor</td><td>Scope of services, budget and management agreement for Special Service Area No. 19 (Year 2018)</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl126_hypFile" href="LegislationDetail.aspx?ID=3145786&amp;GUID=539B60E8-9DFB-46D8-B19D-1F77DAFD5670&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6230</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>9/6/2017</td><td>10/11/2017</td><td>Mayor</td><td>Scope of services, budget and management agreement for Special Service Area No. 13 (Year 2018)</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl128_hypFile" href="LegislationDetail.aspx?ID=3145785&amp;GUID=80ADDF3D-1EFA-4853-8691-B6118979E7FD&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6229</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>9/6/2017</td><td>10/11/2017</td><td>Mayor</td><td>Scope of services, budget and management agreement for Special Service Area No. 7 (Year 2018)</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl130_hypFile" href="LegislationDetail.aspx?ID=3145779&amp;GUID=5F2D2622-5099-4379-ABCB-0DEA521413FA&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6228</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>9/6/2017</td><td>10/11/2017</td><td>Mayor</td><td>Scope of services, budget and management agreement for Special Service Area No. 4 (Year 2018)</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl132_hypFile" href="LegislationDetail.aspx?ID=3145714&amp;GUID=CC268BAE-673C-4514-BDAE-960E3D6C0ED7&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6227</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>9/6/2017</td><td>10/11/2017</td><td>Mayor</td><td>Expenditure of Open Space Impact Fee funds and grant agreement with NeighborSpace for development of community garden at 5346 N Ravenswood Ave</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl134_hypFile" href="LegislationDetail.aspx?ID=3145704&amp;GUID=F3D1F935-FA28-476E-871B-C6D8F34CC30D&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6226</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>9/6/2017</td><td>10/11/2017</td><td>Mayor</td><td>Amendment of Municipal Code Chapters 7-28 and 11-4 regarding increase and synchronization of penalties against illegal disposal of waste, refuse or junk (fly-dumping)</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl136_hypFile" href="LegislationDetail.aspx?ID=3145690&amp;GUID=545A82F9-1157-4D6C-81A6-7A6049501226&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">SO2017-6225</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>9/6/2017</td><td>10/11/2017</td><td>Mayor</td><td>Amendment of Municipal Code Chapter 2-45 by adding new Section 2-45-119 entitled "Milwaukee Corridor ARO Pilot Area Ordinance" (Affordable Requirements Ordinance) </td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl138_hypFile" href="LegislationDetail.aspx?ID=3145689&amp;GUID=C042022B-4549-48A3-8F3D-8AB674346462&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">SO2017-6224</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>9/6/2017</td><td>10/11/2017</td><td>Mayor</td><td>Amendment of Municipal Code Chapter 2-45 by adding new Section 2-45-117 entitled "Near North/Near West ARO Pilot Area Ordinance" (Affordable Requirements Ordinance) </td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl140_hypFile" href="LegislationDetail.aspx?ID=3145688&amp;GUID=05EDF194-D9AF-4615-BE19-3975726A0676&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">R2017-727</a>
+                                    </td><td>Resolution</td><td>Adopted</td><td>9/6/2017</td><td>10/11/2017</td><td>Mayor</td><td>Adoption and implementation of Good Food Purchasing Program standards</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl142_hypFile" href="LegislationDetail.aspx?ID=3145683&amp;GUID=3736D9A5-1D8D-4838-A042-008081D23A3E&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6223</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>9/6/2017</td><td>10/11/2017</td><td>Mayor</td><td>CDBG Year XLIII  Ordinance - Adjustment</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl144_hypFile" href="LegislationDetail.aspx?ID=3145673&amp;GUID=0B22D5F4-0850-429D-A6C4-B91F26663A34&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">A2017-103</a>
+                                    </td><td>Appointment</td><td>Approved</td><td>9/6/2017</td><td>10/11/2017</td><td>Mayor</td><td>Appointment of Gary Gardner as member of Chicago Plan Commission</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl146_hypFile" href="LegislationDetail.aspx?ID=3145672&amp;GUID=C45D1E7B-48D9-4E29-A834-EB79B2942320&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">A2017-102</a>
+                                    </td><td>Appointment</td><td>Approved</td><td>9/6/2017</td><td>10/11/2017</td><td>Mayor</td><td>Reappointment of Martin Cabrera, Jr. as member of Chicago Plan Commission</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl148_hypFile" href="LegislationDetail.aspx?ID=3145671&amp;GUID=EACA0973-2EBA-4699-88F3-93323D3635D2&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">A2017-101</a>
+                                    </td><td>Appointment</td><td>Approved</td><td>9/6/2017</td><td>10/11/2017</td><td>Mayor</td><td>Appointment of Fran R. Grossman as member of Chicago Plan Commission</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl150_hypFile" href="LegislationDetail.aspx?ID=3145670&amp;GUID=60826F38-173D-40D6-B22D-66BC13C4A067&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">A2017-100</a>
+                                    </td><td>Appointment</td><td>Approved</td><td>9/6/2017</td><td>10/11/2017</td><td>Mayor</td><td>Appointment of Nicolas DeLong as member of Advisory Council on Veterans</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl152_hypFile" href="LegislationDetail.aspx?ID=3145669&amp;GUID=7AC2455C-5ABF-48F7-9D5B-6E3CCAFFF8F1&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">A2017-99</a>
+                                    </td><td>Appointment</td><td>Approved</td><td>9/6/2017</td><td>10/11/2017</td><td>Mayor</td><td>Appointment of Emanuel Johnson as member of Advisory Council on Veterans</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl154_hypFile" href="LegislationDetail.aspx?ID=3145668&amp;GUID=533D7591-4E7E-497D-81A5-8B1459CFEEEC&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">A2017-98</a>
+                                    </td><td>Appointment</td><td>Approved</td><td>9/6/2017</td><td>10/11/2017</td><td>Mayor</td><td>Appointment of Jessica Rose Wallace as member of Advisory Council on Veterans</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl156_hypFile" href="LegislationDetail.aspx?ID=3145667&amp;GUID=2058873F-91D8-4A40-8458-DF86E9EC4961&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">A2017-97</a>
+                                    </td><td>Appointment</td><td>Approved</td><td>9/6/2017</td><td>10/11/2017</td><td>Mayor</td><td>Appointment of David S. Piatek as member of Advisory Council on Veterans</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl158_hypFile" href="LegislationDetail.aspx?ID=3145666&amp;GUID=58725E09-A5A0-408A-8AA7-F8B44C142252&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">A2017-96</a>
+                                    </td><td>Appointment</td><td>Approved</td><td>9/6/2017</td><td>10/11/2017</td><td>Mayor</td><td>Appointment of Branden R. Marty as member of Advisory Council on Veterans </td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl160_hypFile" href="LegislationDetail.aspx?ID=3145665&amp;GUID=888EF2A2-C51E-4382-A71E-5196892E1CFC&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">A2017-95</a>
+                                    </td><td>Appointment</td><td>Approved</td><td>9/6/2017</td><td>10/11/2017</td><td>Mayor</td><td>Appointment of James F. Ellis, Jr. as member of Public Building Commission of Chicago </td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl162_hypFile" href="LegislationDetail.aspx?ID=3145664&amp;GUID=BFB2BC5C-7CB4-4C37-AEBC-43C395C1CC61&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">A2017-94</a>
+                                    </td><td>Appointment</td><td>Approved</td><td>9/6/2017</td><td>10/11/2017</td><td>Mayor</td><td>Appointment of Marc Brooks as member of Community Development Commission</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl164_hypFile" href="LegislationDetail.aspx?ID=3145662&amp;GUID=8CADAEFC-2B06-4B10-8CCB-34355C8F2B88&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">A2017-93</a>
+                                    </td><td>Appointment</td><td>Approved</td><td>9/6/2017</td><td>10/11/2017</td><td>Mayor</td><td>Appointment of David L. Daskal as member of Board of Ethics </td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl166_hypFile" href="LegislationDetail.aspx?ID=3145661&amp;GUID=969374FF-7918-4820-831C-57BD221D62A4&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">A2017-92</a>
+                                    </td><td>Appointment</td><td>Approved</td><td>9/6/2017</td><td>10/11/2017</td><td>Mayor</td><td>Appointment of Jayesh N. Shewakramani as member of Special Service Area No. 43, Devon Avenue Commission</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl168_hypFile" href="LegislationDetail.aspx?ID=3145549&amp;GUID=14E47B83-9B90-408F-8789-990551CB3EDC&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6222</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>9/6/2017</td><td>10/11/2017</td><td>Mayor</td><td>2018 scope of services, budget and management agreement and amendment of 2017 levy, budget and service provider agreement for Special Service Area No. 1-2015 (Year 2018)</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl170_hypFile" href="LegislationDetail.aspx?ID=3145194&amp;GUID=BE89F9C1-B3DB-4936-B817-A539775AB695&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6211</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>9/6/2017</td><td>10/11/2017</td><td>47</td><td>Amendment of Municipal Code Section 4-60-023 (47.65) to allow additional package goods licenses on portion(s) of N Western Ave </td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl172_hypFile" href="LegislationDetail.aspx?ID=3145162&amp;GUID=5ED60081-CE2A-425F-8525-6D7344A98382&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6210</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>9/6/2017</td><td>10/11/2017</td><td>33</td><td>Amendment of Municipal Code Section 4-60-023 (35.9) to allow additional package goods licenses on portion(s) of W Diversey Ave </td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl174_hypFile" href="LegislationDetail.aspx?ID=3145161&amp;GUID=99A3C7AD-1502-441C-82C6-7BADCBDF3911&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6209</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>9/6/2017</td><td>11/8/2017</td><td>33</td><td>Amendment of Municipal Code Section 4-60-023 (39.35) to allow additional package goods licenses on portion(s) of W Lawrence Ave </td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl176_hypFile" href="LegislationDetail.aspx?ID=3145152&amp;GUID=3C3DE64B-6E02-415F-AAF8-122CB98A6231&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6208</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>9/6/2017</td><td>11/8/2017</td><td>16</td><td>Amendment of Municipal Code Section 4-60-023 (16.64) to allow additional package goods licenses on portion(s) of S Kedzie Ave</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl178_hypFile" href="LegislationDetail.aspx?ID=3145141&amp;GUID=B25045F3-E0EA-4E72-8C79-F8CD34585A99&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6207</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>9/6/2017</td><td>10/11/2017</td><td>09</td><td>Amendment of Municipal Code Section 4-60-023 (9.8) to disallow additional package good licenses on portion(s) of E 103rd St</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl180_hypFile" href="LegislationDetail.aspx?ID=3142439&amp;GUID=A4B1B4DA-7B30-420C-BC51-933EA3B5FA80&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6166</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>9/5/2017</td><td>9/6/2017</td><td>&nbsp;</td><td>One Time Exception to Wrigley Field Adjacent Area Ordinance allowing Chicago Cubs to hold Major League Baseball game on September 8, 2017 at 7:05 P.M.</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl182_hypFile" href="LegislationDetail.aspx?ID=3140003&amp;GUID=73A3886F-1B75-4453-983E-EFD3247B1661&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">SO2017-6163</a>
+                                    </td><td>Ordinance</td><td>Introduced</td><td>8/30/2017</td><td>&nbsp;</td><td>09</td><td>Amendment of Municipal Code 9-115-150, 9-114-265 - Transportation network driver fingerprint/photo requirements and fare rates higher than regular rates</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl184_hypFile" href="LegislationDetail.aspx?ID=3112962&amp;GUID=F4D0CAEC-3D3D-4B8F-BAEF-95827FAE02FE&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6020</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>7/26/2017</td><td>7/26/2017</td><td>&nbsp;</td><td>Agreement with Concord Sheridan LP by JNB Concord Sheridan LLC for Multi-family program funds to acquire and construct building at 6438 N Sheridan Road</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl186_hypFile" href="LegislationDetail.aspx?ID=3112913&amp;GUID=242F9D30-71FD-49AB-A4C4-4F0286DF206E&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">SOr2017-397</a>
+                                    </td><td>Order</td><td>Passed</td><td>7/26/2017</td><td>7/26/2017</td><td>14</td><td>Call for Commissioner of Department of Aviation to appear before Joint Committee on Aviation and Committee on Finance to testify regarding Chicago Midway International Airport Residential Sound Insulation Program</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl188_hypFile" href="LegislationDetail.aspx?ID=3111745&amp;GUID=7B05EFA8-A701-4578-99D2-C651294AEE12&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-6016</a>
+                                    </td><td>Ordinance</td><td>Deferred and Published</td><td>7/26/2017</td><td>7/26/2017</td><td>&nbsp;</td><td>Amendment of Municipal Code Section 2-32-031 regarding debt management responsibilities</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl190_hypFile" href="LegislationDetail.aspx?ID=3111641&amp;GUID=7C9FDC16-6914-4620-B622-1807504510C4&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">SO2017-5552</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>7/26/2017</td><td>9/6/2017</td><td>Mayor</td><td>Amendment of Municipal Code by modifying Chapters 4-240, 4-264 and adding new Section 8-4-053 regarding regulation of secondary cell phone market</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl192_hypFile" href="LegislationDetail.aspx?ID=3111518&amp;GUID=4B91E039-0581-42A1-A9D3-920F660DE84D&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-5991</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>7/26/2017</td><td>9/6/2017</td><td>Mayor</td><td>Issuance, sale and delivery of City of Chicago Multi-Family Housing Revenue Note, 2017 Series A for construction of multi-family housing facility at 2031-2037 N Milwaukee Ave, and execution of funding loan agreement with Citybank N.A.</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl194_hypFile" href="LegislationDetail.aspx?ID=3111509&amp;GUID=AE3D8630-6960-4DCB-AF67-6CBCD305DDBC&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">R2017-671</a>
+                                    </td><td>Resolution</td><td>Adopted</td><td>7/26/2017</td><td>10/11/2017</td><td>Mayor</td><td>Expression of opposition to decision of President Donald J. Trump to ban members of transgender community from military service</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl196_hypFile" href="LegislationDetail.aspx?ID=3111301&amp;GUID=9F1F1521-B18F-4EDC-8840-C1B899BAA00B&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-5905</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>7/26/2017</td><td>9/6/2017</td><td>Mayor</td><td>Intent to Issue Tax Exempt Housing Revenue Bonds for Taylor Street Library and Apartments to finance construction of mixed-income housing at 1328-1350 W Taylor St</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl198_hypFile" href="LegislationDetail.aspx?ID=3111144&amp;GUID=2EFF9C72-05AE-46BB-8C34-8361CD8FFB20&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-5782</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>7/26/2017</td><td>9/6/2017</td><td>Mayor</td><td>Support of Class L tax incentive for property at 933-943 W Fulton Market</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl200_hypFile" href="LegislationDetail.aspx?ID=3111112&amp;GUID=352E6960-9DCE-4CC2-96AA-9E0A336E9D08&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-5757</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>7/26/2017</td><td>9/6/2017</td><td>Mayor</td><td>Sale of City-owned property at 4451-4453 W Madison St to Three Crosses of Calvary Missionary Baptist Church</td>
+		debugger eval code:1:29
+
+			<td style="white-space:nowrap;">
+                                        <a id="ctl00_ContentPlaceHolder1_gridMain_ctl00_ctl202_hypFile" href="LegislationDetail.aspx?ID=3111080&amp;GUID=DEB4B47D-AAC1-4E3E-BC8E-2CDAB652F2B4&amp;Options=Advanced&amp;Search=" style="color:Blue;font-family:Tahoma;font-size:10pt;">O2017-5725</a>
+                                    </td><td>Ordinance</td><td>Passed</td><td>7/26/2017</td><td>9/6/2017</td><td>Mayor</td><td>Sale of City-owned property at 3416-3444 W Lake St to Sean R. Kelly</td>
